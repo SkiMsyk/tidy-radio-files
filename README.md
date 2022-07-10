@@ -58,6 +58,9 @@ json形式で録音した番組の情報を作っておく
 
 ## Execution
 
+1. ラジオサーバーからファイルを`tmp`にコピーする
+2. `tidy.py`を実行する
+
 ```{shell}
 $ cd [radio directory]
 $ python scripts/tidy.py
