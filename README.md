@@ -26,6 +26,10 @@ radio
 
 json形式で録音した番組の情報を作っておく
 
+1. `[week number]`は0が日曜日，6が土曜日
+2. `[hour minutes]`は`HHMM`形式
+3. `name`と`category`は任意
+
 ```{json}
 {
     "[week number]":{
