@@ -11,7 +11,7 @@ radio
 │   ├── tidy.py
 │   └── program.json
 ├── programs
-│   └── category-a
+│   ├── category-a
 │   │   └── program-a
 │   │       └── YYYYMM
 │   │           └── mp3files...
