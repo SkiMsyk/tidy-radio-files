@@ -5,16 +5,7 @@ OLYMPUS Radio Server Pocket PJ-35 のファイルを整理するためのスク�
 
 ## File tree
 
-radio
-├── scripts
-│   ├── tidy.py
-│   └── program.json
-├── programs
-│   ├── program-a
-│   ├── program-b
-│   └── ...
-└── tmp
-
+<pre>
 radio
 ├── scripts
 │   ├── tidy.py
@@ -29,6 +20,7 @@ radio
 │           └── YYYYMM
 │               └── mp3files...
 └── tmp
+</pre>
 
 ## program.json
 
