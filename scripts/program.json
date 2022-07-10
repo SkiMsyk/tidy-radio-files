@@ -1,0 +1,18 @@
+{
+    "0":{
+        "0645":{"name":"program-a", "category":"category-a"},
+        "0830":{"name":"program-b", "category":"category-b"}
+    },
+    "1":{
+        "0":{
+            "0645":{"name":"program-a", "category":"category-a"},
+            "0830":{"name":"program-b", "category":"category-b"}
+        }
+    },
+    "2":{
+        "0":{
+            "0645":{"name":"program-a", "category":"category-a"},
+            "0830":{"name":"program-b", "category":"category-b"}
+        }
+    }
+}
